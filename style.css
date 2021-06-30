@@ -78,10 +78,8 @@ img {
 	
 	body {
 		font-size: 10px;
-	}
-
-	#text {
-		color: red;
+    margin: 0;
+    padding: 0;
 	}
 
 	.row {
@@ -109,6 +107,7 @@ img {
 	#lezioni > div > h1 {
 		font-size: 15px;
 		padding-top: 10px;
+    margin-top: 0;
 	}
 
 	#steps .row > .left, 
